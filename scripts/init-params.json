@@ -1,0 +1,11 @@
+{
+  "project": "csttn",
+  "repository": "https://github.com/csttn/wa-project-web.git",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "http://localhost:3003",
+  "dockerImage": "waproject/desafio-csttn-web",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "csttn"
+}
